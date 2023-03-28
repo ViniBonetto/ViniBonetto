@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Vinícius Bonetto
  <div>
   <a href="https://github.com/ViniBonetto">
-  <img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniBonetto)](https://github.com/anuraghazra/github-readme-stats)"/>
+  <img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniBonetto)](https://github.com/ViniBonetto/github-readme-stats)"/>
   <img height="180em" src="![ViniBonetto's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniBonetto&count_private=true)"/>
 </div>
 <div style="display: inline_block"><br>
