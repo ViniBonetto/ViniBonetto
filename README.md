@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/ViniBonetto">
   <img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniBonetto)](https://github.com/anuraghazra/github-readme-stats)"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniBonetto&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="![ViniBonetto's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniBonetto&count_private=true)"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
